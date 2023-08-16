@@ -145,13 +145,13 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif
 ```
 ## Output  :
-i.) LED is in OFF State:
+i.) When the LED is in OFF State:
  
  
 
 ![pmcexp1(1)](https://github.com/shoaib3136/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/117919362/4a1ce6c1-8d3c-437d-8076-d7bc938ab6a0)
 
-ii.) LED is in ON State:
+ii.) When the LED is in ON State:
 
 
  ![WhatsApp Image 2023-08-16 at 14 39 27](https://github.com/shoaib3136/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/117919362/ae3667c4-c9a5-4e82-af7f-0212219580d0)
